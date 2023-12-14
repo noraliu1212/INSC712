@@ -7,6 +7,7 @@ This forensic investigation analyzes a substantial breach in business confidenti
 
 This Attack is based on the following topology: 
 ![Attack Topology](attack_topology)
+![Summary of MAC and IP Adress of Related Parties](summary_MAC_IP_table)
 
 ## Table of Contents
 
