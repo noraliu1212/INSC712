@@ -9,6 +9,8 @@ This Attack is based on the following topology:
 
 <img src="attack_topology" alt="Attack Topology" width="400"/>
 
+The summary table Hosts and their MAC address and IP address are listed in the following table:
+
 <img src="summary_MAC_IP_table" alt="Summary of MAC and IP Address of Related Parties" width="400"/>
 
 
