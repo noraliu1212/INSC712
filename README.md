@@ -22,20 +22,21 @@ The summary table Hosts and their MAC address and IP address are listed in the f
 
 ## Related Code 
 
-- docker-compose.yml (https://github.com/noraliu1212/INSC712/blob/main/docker-compose.yml)
-- task11.py (https://github.com/noraliu1212/INSC712/blob/main/task11.py)
-- task12.py (https://github.com/noraliu1212/INSC712/blob/main/task12.py)
-- task21.py (https://github.com/noraliu1212/INSC712/blob/main/task21.py)
-- sniff_and_spoof.py (https://github.com/noraliu1212/INSC712/blob/main/sniff_and_spoof.py)
-- sniff_and_spoof2.py (https://github.com/noraliu1212/INSC712/blob/main/sniff_and_spoof2.py)
+- [docker-compose.yml](https://github.com/noraliu1212/INSC712/blob/main/docker-compose.yml)
+- [task11.py](https://github.com/noraliu1212/INSC712/blob/main/task11.py)
+- [task12.py](https://github.com/noraliu1212/INSC712/blob/main/task12.py)
+- [task21.py](https://github.com/noraliu1212/INSC712/blob/main/task21.py)
+- [sniff_and_spoof.py](https://github.com/noraliu1212/INSC712/blob/main/sniff_and_spoof.py)
+- [sniff_and_spoof2.py](https://github.com/noraliu1212/INSC712/blob/main/sniff_and_spoof2.py)
 
 
 ## Manual of how to conduct the Attack
-- Manual of how to conduct the MITM attack using ARP Posioning: ([712_ARP_manual.pdf](https://github.com/noraliu1212/INSC712/blob/main/712_ARP_manual.pdf))
+- Manual of how to conduct the MITM attack using ARP Posioning: [712_ARP_manual.pdf](https://github.com/noraliu1212/INSC712/blob/main/712_ARP_manual.pdf)
 
 ## Reference
 The attack process is referenced based on SEEDLabs retrived from: 
-SEEDLabs. (2023). ARP Cache Poisoning Lab. Syracuse University. https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/
+SEEDLabs. (2023). ARP Cache Poisoning Lab. Syracuse University. 
+[SEEDLab ARR Cache Poisoning Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/ARP_Attack/)
 
 
 
