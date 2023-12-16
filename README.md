@@ -31,7 +31,7 @@ The summary table Hosts and their MAC address and IP address are listed in the f
 
 
 ## Manual of how to conduct the Attack
-- Manual of how to conduct the MITM attack using ARP Posioning: [712_ARP_manual.pdf](https://github.com/noraliu1212/INSC712/blob/main/712_ARP_manual.pdf)
+- Manual of how to conduct the MITM attack using ARP Posioning: [Attack Manual.pdf](https://github.com/noraliu1212/INSC712/blob/main/712_ARP_manual.pdf)
 
 ## Reference
 The attack process is referenced based on SEEDLabs retrived from: 
